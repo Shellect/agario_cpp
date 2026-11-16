@@ -6,7 +6,7 @@
 
 namespace net = boost::asio;
 using tcp = net::ip::tcp;
-boost::system::error_code;
+using boost::system::error_code;
 
 int main()
 {
